@@ -14,5 +14,4 @@ $ croque-mort run -u https://preview.difolco.dev/ -d ../../writings/blog/public 
 ../../writings/blog/public/2022-12/polysemy/index.html:https://blog.dev/2022-12/polysemy-injection/./2022-12-14_polysemy-effects-injection.md
 
 Run over 1 base URLs and 637 files, only 1 links where broken out of 14432
-
 ```
